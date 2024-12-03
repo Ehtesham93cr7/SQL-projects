@@ -1,4 +1,5 @@
-# SQL-projects
+# Real-Time SQL Project: Comprehensive Analysis of the 2024 India General Elections Results
+
 In this advanced SQL project, I conducted a detailed analysis of the 2024 India General Elections results using a MySQL database. This hands-on project involved working with five CSV files, providing a real-world scenario that allowed me to develop invaluable skills in data analysis and SQL.
 
 Key Highlights of the Project:
